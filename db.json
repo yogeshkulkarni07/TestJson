@@ -70,7 +70,14 @@
         "Q2Sales": "6000",
         "Q3Sales": "7000",
         "Q4Sales": "8500"
-      }     
+      },
+      {
+        "Product": "Reno Duster",
+        "Q1Sales": "3645",
+        "Q2Sales": "4738",
+        "Q3Sales": "2789",
+        "Q4Sales": "9756"
+      }    
     ]
   }
 }
