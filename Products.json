@@ -1,0 +1,76 @@
+{
+  "ProductDetails": {
+    "Products": [
+      {
+        "Product": "Baleno",
+        "Q1Sales": "6000",
+        "Q2Sales": "5000",
+        "Q3Sales": "7000",
+        "Q4Sales": "5500"
+      },
+      {
+         "Product": "i20",
+        "Q1Sales": "5000",
+        "Q2Sales": "6000",
+        "Q3Sales": "7000",
+        "Q4Sales": "8500"
+      },
+      {
+        "Product": "Ford Figo",
+        "Q1Sales": "8000",
+        "Q2Sales": "5000",
+        "Q3Sales": "3000",
+        "Q4Sales": "4500"
+      },
+      {
+         "Product": "Punto",
+        "Q1Sales": "5000",
+        "Q2Sales": "5500",
+        "Q3Sales": "7500",
+        "Q4Sales": "6500"
+      },
+      {
+        "Product": "Ertiga",
+        "Q1Sales": "3000",
+        "Q2Sales": "4000",
+        "Q3Sales": "7000",
+        "Q4Sales": "6500"
+      },
+      {
+        "Product": "Prius",
+        "Q1Sales": "3000",
+        "Q2Sales": "5000",
+        "Q3Sales": "6000",
+        "Q4Sales": "9500"
+      },
+      {
+        "Product": "Etios",
+        "Q1Sales": "4000",
+        "Q2Sales": "5000",
+        "Q3Sales": "3000",
+        "Q4Sales": "9500"
+      },
+      {
+        "Product": "Swift",
+        "Q1Sales": "5000",
+        "Q2Sales": "6000",
+        "Q3Sales": "8000",
+        "Q4Sales": "7500"
+      },
+      {
+        "Product": "Fortuner",
+        "Q1Sales": "4000",
+        "Q2Sales": "5000",
+        "Q3Sales": "4000",
+        "Q4Sales": "5500"
+      },
+      {
+         "Product": "Scross",
+        "Q1Sales": "5000",
+        "Q2Sales": "6000",
+        "Q3Sales": "7000",
+        "Q4Sales": "8500"
+      }     
+    ]
+  }
+}
