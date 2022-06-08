@@ -77,7 +77,14 @@
         "Q2Sales": "4738",
         "Q3Sales": "2789",
         "Q4Sales": "9756"
-      }    
+      },
+      {
+        "Product": "Reno Kiger",
+        "Q1Sales": "4657",
+        "Q2Sales": "6453",
+        "Q3Sales": "8874",
+        "Q4Sales": "7854"
+      }
     ]
   }
 }
