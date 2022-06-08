@@ -84,6 +84,13 @@
         "Q2Sales": "6453",
         "Q3Sales": "8874",
         "Q4Sales": "7854"
+      },
+      {
+        "Product": "XUV700",
+        "Q1Sales": "3899",
+        "Q2Sales": "4899",
+        "Q3Sales": "6648",
+        "Q4Sales": "8321"
       }
     ]
   }
