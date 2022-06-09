@@ -91,6 +91,13 @@
         "Q2Sales": "4899",
         "Q3Sales": "6648",
         "Q4Sales": "8321"
+      },
+      {
+        "Product": "Bolero",
+        "Q1Sales": "7678",
+        "Q2Sales": "7765",
+        "Q3Sales": "9987",
+        "Q4Sales": "9111"
       }
     ]
   }
